@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 2be162fd117b52a4c9e6a1dafcbfee90
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DowngradedWhipperWalking (1)_0
+    21300002: DowngradedWhipperWalking (1)_1
+    21300004: DowngradedWhipperWalking (1)_2
+    21300006: DowngradedWhipperWalking (1)_3
+    21300008: DowngradedWhipperWalking (1)_4
+    21300010: DowngradedWhipperWalking (1)_5
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 490
+        width: 285
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5475765, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819740e343e0e64dab81d1e9088eaa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 490
+        width: 285
+        height: 190
+      alignment: 9
+      pivot: {x: 0.54025686, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa989f94baca0a478e8dda38ea50c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 249
+        width: 285
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5439167, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d5899a140cf9478e68468766a9d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 250
+        width: 285
+        height: 195
+      alignment: 9
+      pivot: {x: 0.54025686, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947dd7213277e649801956b042375b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 285
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5439167, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d3a3fc671c8e4d8534ef9311f363d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedWhipperWalking (1)_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 285
+        height: 190
+      alignment: 9
+      pivot: {x: 0.54025686, y: 0.48930132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec037ce1a9bc1f545b752b2bda58ca3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e95de3a1ca63974cae6d33740b23216
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

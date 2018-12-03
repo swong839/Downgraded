@@ -1,0 +1,19 @@
+Delegates and Events - all of the delegates and events go here.
+Static Variables - variables declared using the "static" keyword
+Constant Variables - variables declared using the "const" keyword
+Editor Variables - any variable that can be edited in the editor goes here. variables here MUST have a tooltip
+Non-Editor Variables - most class variables that should not be editable through the script. these should generally have comments describing their role
+Cached Components - cached components for THIS game object. if this is the enemy and it needs a reference to the player's rigidbody, that would go in the next section!
+Cached Instance References - cached references for game object instances (example above)
+Singletons - singletons of the script
+First Time Initialization and Setup - this includes awake, start, and certain setup methods that are only called once during the initial setup
+OnEnable, Setups, and Resetters - basically setups that occur multiple times per game. this can include resetting a score, timer, health, etc.
+Main Updates - the normal Update and the physics' FixedUpdate
+Game Loop Updates - generally coroutines that describe the flow of the game
+OnDisable and Other Enders - any method that should be called when the game object is disabled, destroyed, etc.
+Accessors and Mutators - one liner get and set using the special C# syntax
+Getters - methods that start with Get___ and generally have more complex bodies than the above
+Checkers and Verifiers - methods to check and verify things in the code. this helps maintain readibility and consiceness
+Collision Methods - anything that has to do with collisions goes here
+Unity Misc - any other unity method that has not been covered already would go here. for example, OnGUI
+Script Specific Headers - these are custom headers for method groups that are specific to the particular class. for a player class, you may have a "Health" header or "Player Stats" header

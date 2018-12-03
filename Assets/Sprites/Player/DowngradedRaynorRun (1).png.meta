@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: c76c2b2226333284886d1e8f004a5815
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DowngradedRaynorRun (1)_0
+    21300002: DowngradedRaynorRun (1)_1
+    21300004: DowngradedRaynorRun (1)_2
+    21300006: DowngradedRaynorRun (1)_3
+    21300008: DowngradedRaynorRun (1)_4
+    21300010: DowngradedRaynorRun (1)_5
+    21300012: DowngradedRaynorRun (1)_6
+    21300014: DowngradedRaynorRun (1)_7
+    21300016: DowngradedRaynorRun (1)_8
+    21300018: DowngradedRaynorRun (1)_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 735
+        width: 135
+        height: 200
+      alignment: 9
+      pivot: {x: 0.55205035, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02bdbc65d5fc4b4c99b305aaa543b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 735
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.53011477, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495a5797db12134c9a8212c38b11d7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 735
+        width: 110
+        height: 200
+      alignment: 9
+      pivot: {x: 0.6916393, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71805f3ff80410e41b3a8843784d55a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 495
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148c55eb7ccb304eab62b281e409416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 155
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48186645, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d48860562e30d418f3015692abefbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 495
+        width: 135
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5520499, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2a51cfd5b73049a25dda8de1beb24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5401531, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e0b17cd6056b4daed20804bc6bea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 255
+        width: 110
+        height: 200
+      alignment: 9
+      pivot: {x: 0.6788638, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294a876d02d871449796089882d12cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 255
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d9dadd4f1da874c8868f046ad5ea42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DowngradedRaynorRun (1)_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 155
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48186645, y: 0.4227048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a7d3f9f203ad458388489bcf3c351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0dba84114d152c941a62e137e9b1b3c6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

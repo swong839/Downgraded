@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1249578083758844}
+  m_IsPrefabAsset: 1
+--- !u!1 &1249578083758844
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4547856056556510}
+  - component: {fileID: 114260690824543260}
+  m_Layer: 0
+  m_Name: Beginning
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4547856056556510
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1249578083758844}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 256.73285, y: 155.2057, z: 3.6875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114260690824543260
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1249578083758844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fba0b3c863b2d624a913f704c1bfdf16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  story:
+  - You're a simple space explorer, living in the coveted giant space station, going
+    out on epic space walks and maintaining space peace. Or at least you dream of
+    it by night. By day, you help clean the space station.
+  - One day you wake to find that your ship has been taken over by aliens. Everyone
+    else on the ship has been captured, but thanks to your tiny room in the basement
+    of the ship, the aliens didn't find you. It's up to you to save your daring colleagues
+    and show them that you're just as good as them.
+  - With your speedboosting boots, handy-dandy droid and this weird time slowing machine
+    you found, go and liberate your ship!
+  completeObject: {fileID: 1413512689441600, guid: 03db508d65c703348bc7b15df78b8a3e,
+    type: 2}
+  text: {fileID: 114729726859110256, guid: 03db508d65c703348bc7b15df78b8a3e, type: 2}
+  next: {fileID: 1650074017052522, guid: 03db508d65c703348bc7b15df78b8a3e, type: 2}
